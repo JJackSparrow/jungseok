@@ -11,4 +11,4 @@
 
 - 자바의 정석: 자바 언어의 개념서에 포함된 연습 문제를 해결한 소스 코드입니다.
   + [소스 폴더]: [업데이트 날짜]'문제 이름' 형식으로 Commit Message를 작성하였습니다.
-  + [티스토리 블로그](https://jjacksparrow-luna.tistory.com/category/CODING%20TEST/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C): 자바의 정석이라는 개념서에 포함된 연습 문제 풀이 과정을 기록한 블로그입니다.
+  + [티스토리 블로그](https://jjacksparrow-luna.tistory.com/category/CODING%20TEST/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D%28%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%29): 자바의 정석이라는 개념서에 포함된 연습 문제 풀이 과정을 기록한 블로그입니다.
